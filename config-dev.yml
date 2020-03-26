@@ -17,4 +17,4 @@ mybatis:
 
 
 config:
-     info: config-dev.yml
+     info: config-dev.yml2
